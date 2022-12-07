@@ -13,4 +13,13 @@
   didnt feel like learning C++ was my passion, so i decided to learn something new.
   I hope to become a programmer in the future and that theese courses
   will help me achive that.
+  ```
+  4. Basic knowlуdge of С++
+
+  5. 
+  6.None
+  7. __Gymnasium No. 6__, 1 and a half courses of BSUIR CSN (Computer Systems and Networks)
+  ___
+  8. __Advanced__ according to efset.org
+
   
