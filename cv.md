@@ -15,11 +15,12 @@
   will help me achive that.
   ```
   4. Basic knowlуdge of С++
+  ---
 
-  5. 
-  6.None
-  7. __Gymnasium No. 6__, 1 and a half courses of BSUIR CSN (Computer Systems and Networks)
+  5. _Dont have any functions saved up, sadly_ 
+  6. None
+  7. __Gymnasium No. 6__, 1 and a half courses of BSUIR CSNF (Computer Systems and Networks Faculty)
   ___
-  8. __Advanced__ according to efset.org
+  8. __Advanced__ according to [efset.org](https://www.efset.org)
 
   
