@@ -1,13 +1,13 @@
 
   No.1
   __My full name__ is Tikhon Chebotaryov
----
+
   No.2
   __Contacts__
    *  _tikhoncheb@gmail.com_
      
    *  Keilon#8449 (Discord)
-   ---
+   
 
   No.3
 
@@ -20,7 +20,7 @@
   No.4
   
   Basic knowledge of С++
-  ---
+  -
 
   No.5
   _Dont have any functions saved up, sadly_ 
